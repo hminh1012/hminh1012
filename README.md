@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student from Vietnam</h3>
 
 - 🔭 I’m currently studying in **Danang University of Science and Technology**
-- 🛰️ Embedded System Engineering Intern at **[Paracel Technology Solution](https://paraceltech.com/en/)**
+- 🛰️ Embedded System and IoT Engineering Intern at **[Paracel Technology Solution](https://paraceltech.com/en/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
