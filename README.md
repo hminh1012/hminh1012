@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Embedded Systems & IoT student from Vietnam 🇻🇳</h3>
 
 <p align="center">
-  I'm a final-year <b>Electronic and Communication Engineering</b> student (GPA: 3.55/4.00) at <b>Danang University of Science and Technology</b>. 
+  I'm a final-year <b>Electronic and Communication Engineering</b> student at <b>Danang University of Science and Technology</b>. 
   <br />
  I'm eager to contribute to innovative projects in the embedded system and IoT domain.
 </p>
@@ -51,7 +51,6 @@
   <a href="http://gazebosim.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gazebo-1EB2F2?style=for-the-badge&logo=ros&logoColor=white" alt="gazebo" height="40"/> </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
-  <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="http://www.w3.org/2000/svg" alt="ltspice" height="40"/> </a> 
 </p>
 
 <h4>📱 Web & Mobile Backend</h4>
@@ -61,13 +60,13 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-<h4>🧠 RTL Design & Simulation </h4>
+<h4> 🏿 RTL Design & Simulation </h4>
 <p align="left">
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  
-  <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="http://www.w3.org/2000/svg" alt="ltspice" height="40"/> </a>  
-  <a href="https://www.cadence.com/en_US/home.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LTspice-B53610?style=for-the-badge&logo=analogdevices&logoColor=white" alt="cadence" width="40" height="40"/> </a>
+  <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Analog_Devices_Logo.svg/320px-Analog_Devices_Logo.svg.png" alt="ltspice" height="40"/> </a>  
+  <a href="https://www.cadence.com/en_US/home.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Cadence-Logo.svg/640px-Cadence-Logo.svg.png" alt="cadence" width="150" /> </a>
   <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/3611330/51789332-126e5400-2188-11e9-808e-37c633755ddf.png" alt="vivado" width="40" height="40"/> </a>
-  <a href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime.html" target="_blank" rel="noreferrer"> <img src="" alt="quartus" width="40" height="40"/> </a>
+  <a href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/quartus.svg" alt="quartus" width="100" height="50"/> </a>
 </p>
 
 
@@ -83,7 +82,7 @@
 <h3 align="left">🎓 Education & Activities</h3>
 <ul>
   <li><b>Major:</b> Electronic and Communication Engineering @ DUT (Aug 2021 - Present)</li>
-  <li><b>Relevant Coursework:</b> System Design, Control System, Microcontroller, Robotics, Embedded system and IoT</li>
+  <li><b>Relevant Coursework:</b> System Design, Control System, Microcontroller, Robotics, Embedded system and IoT, Digital RTL Design and Verification with SystemVerilog </li>
   <li><b>Activities:</b> Maze Runner 2025, BK Tech Show 2025</li>
 </ul>
 
