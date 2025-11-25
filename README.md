@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Trần Hoàng Minh 👋</h1>
-<h3 align="center">A passionate Embedded Systems & IoT student from Vietnam 🇻🇳</h3>
+<h3 align="center">A passionate student from Vietnam 🇻🇳</h3>
 
 <p align="center">
   I'm a final-year <b>Electronic and Communication Engineering</b> student at <b>Danang University of Science and Technology</b>. 
