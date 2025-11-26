@@ -4,7 +4,7 @@
 <p align="center">
   I'm a final-year <b>Electronic and Communication Engineering</b> student at <b>Danang University of Science and Technology</b>. 
   <br />
- I'm eager to contribute to innovative projects in the embedded system and IoT domain.
+ I'm eager to contribute to innovative projects in IC design the Embedded system and IoT domain.
 </p>
 
 <hr>
